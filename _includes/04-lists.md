@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+## Favorite places to eat
+- Nairobi Street Kitchen ✨
+- Teriyaki Japan 😜
+- KFC
+  - CBD
+  - Westlands
+  - Buru Buru
+- Nagula's Chakula 
