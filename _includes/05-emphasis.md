@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Over the years I've acquired some _**skills**_ which include:
+* Driving _(B2 and C2)_
+* Graphic Design
+* Baking Cookies
+
+I have also learned these programming languages and technologies:
+* SASS | **SCSS**
+* TypeScript
+* Angular
+* Git | **GitHub** | BitBucket 
